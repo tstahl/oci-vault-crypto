@@ -19,7 +19,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class WalletSecretFunction{
+public class SecretsFunction{
 
     private static String dbPassword;
     private static SecretsClient secretsClient;
